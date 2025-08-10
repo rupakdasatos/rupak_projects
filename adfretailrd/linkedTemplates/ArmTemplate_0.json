@@ -48,9 +48,9 @@
 						"container": "data-rd"
 					},
 					"columnDelimiter": ",",
-					"escapeChar": "\\",
+					"escapeChar": "",
 					"firstRowAsHeader": false,
-					"quoteChar": "\""
+					"quoteChar": ""
 				},
 				"schema": [
 					{
