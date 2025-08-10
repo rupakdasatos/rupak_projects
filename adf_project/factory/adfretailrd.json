@@ -1,0 +1,9 @@
+{
+	"name": "adfretailrd",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d83e6bb3-62a5-45a5-a1ec-5ee2f9159321",
+		"tenantId": "28369dbe-e3e3-41c7-88e6-c46196f73912"
+	}
+}
